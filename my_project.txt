@@ -1,1 +1,6 @@
 "This is the second line added to the file." 
+<<<<<<< HEAD
+=======
+This is edited text in the remote github repository"
+"hello guys welcome back"
+>>>>>>> 425af7499afcb5fbaf29236b62c42a679844395a
